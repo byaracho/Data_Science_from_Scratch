@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "퍼포먼스 마케팅을 위한 데이터 분석(1)"
+title: "퍼포먼스 마케팅 - 데이터 분석(1)"
 tags: [퍼포먼스마케팅, 데이터분석]
 comments: true
 ---
